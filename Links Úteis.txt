@@ -1,0 +1,15 @@
+Links Úteis 
+
+Git/Github
+
+Comandos: 
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+https://blog.geekhunter.com.br/comandos-git-mais-utilizados/
+
+Markdown
+
+Sintaxe básica
+https://www.markdownguide.org/basic-syntax/
+
+Guia Básico:
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
